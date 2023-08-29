@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="25%" src="../assets/banner/banner.svg" alt="Banner">
+  <img width="25%" src="assets/banner/banner.svg" alt="Banner">
 </p>
 <p align="center">
   <b>The carpooling application designed for residents of city Innopolis to organize economical and fast trips, find fellow travelers, and communicate seamlessly.</b>
